@@ -10,4 +10,4 @@ Wiki: https://github.com/eirisocherry/csgo-editing/wiki
 
 ## Support
 Author: https://youtube.com/@shy_rikki  
-If you have any questions or found a bug, please create an issue in this repository or dm me in discord: `shy_rikki`
+If you have any questions or found a bug, join my discord server: https://discord.gg/AAJxThhbBf  
